@@ -15,7 +15,7 @@ include_directories(include/)
 add_executable(main
         src/main.cpp
         src/utils.cpp 
-        src/unit_test.cpp
+        src/unit-test.cpp
         src/Person.cpp 
         src/InsurancePolicy.cpp 
         src/InsuranceCompany.cpp 
